@@ -1,0 +1,173 @@
+sl_no,Name,gender,10_score,10_board,12_score,12_board,12_stream,undergrad_score,undergrad_stream,workex,attended_grad,status,salary
+1,Rahul,M,92.02,Others,91,Others,Science,93.45,Sci&Tech,No,Yes,Placed,1200000
+2,Aditi,F,79.33,Central,78.33,Others,Science,73.52,Sci&Tech,Yes,No,Placed,450000
+3,Amit,M,65,Central,68,Central,Arts,64.42,Comm&Mgmt,No,Yes,Placed,250000
+4,Sara,F,83.6,Central,72,Central,Science,71.63,Sci&Tech,No,Yes,Not Placed,
+5,Krishna,M,85.8,Central,73.6,Central,Commerce,70.65,Comm&Mgmt,Yes,Yes,Placed,425000
+6,Ananya,F,55,Others,79.8,Others,Science,67.25,Sci&Tech,Yes,No,Not Placed,
+7,Vivek,M,77,Others,69.2,Others,Commerce,79,Comm&Mgmt,No,No,Not Placed,
+8,Sanjay,M,82,Central,64.23,Central,Science,83.63,Sci&Tech,Yes,Yes,Placed,800000
+9,Priya,F,73,Central,79,Central,Commerce,72.45,Comm&Mgmt,No,Yes,Placed,1500000
+10,Sandeep,M,72.52,Central,70.62,Central,Commerce,71.04,Comm&Mgmt,No,Yes,Not Placed,
+11,Manisha,F,62,Central,61,Central,Commerce,83.62,Sci&Tech,Yes,Yes,Placed,490000
+12,Rajeev,M,76.6,Central,68.4,Central,Commerce,65,Comm&Mgmt,Yes,Yes,Placed,270000
+13,Preeti,F,47.52,Central,55,Others,Science,55.62,Sci&Tech,No,No,Not Placed,
+14,Alok,M,77,Central,87,Central,Commerce,86.52,Comm&Mgmt,No,Yes,Placed,1000000
+15,Shikha,F,62,Central,67,Central,Commerce,70,Comm&Mgmt,No,No,Not Placed,
+16,Arun,M,85,Central,75,Central,Science,79,Sci&Tech,Yes,Yes,Placed,210000
+17,Mohit,M,67.5,Central,66.2,Central,Commerce,65.6,Comm&Mgmt,Yes,Yes,Placed,320000
+18,Anjali,F,55,Central,67,Central,Commerce,64,Comm&Mgmt,No,Yes,Not Placed,
+19,Sachin,M,86,Central,86,Central,Commerce,63.52,Comm&Mgmt,No,No,Not Placed,
+20,Harini,F,84.52,Others,77,Others,Arts,70,Comm&Mgmt,Yes,Yes,Placed,536000
+21,Pradeep,M,62,Others,85,Others,Science,76,Sci&Tech,No,Yes,Placed,270000
+22,Neha,F,79,Others,76,Others,Commerce,85,Comm&Mgmt,No,Yes,Placed,400000
+23,Akhil,M,69.8,Others,60.8,Others,Science,72.23,Sci&Tech,No,Yes,Placed,1400000
+24,Kavita,F,77.4,Others,60,Others,Science,64.74,Sci&Tech,Yes,Yes,Placed,1530000
+25,Arvind,M,76.5,Others,97.7,Others,Science,88.86,Sci&Tech,No,Yes,Placed,1800000
+26,Simran,F,52.58,Others,54.6,Central,Commerce,50.2,Comm&Mgmt,Yes,Yes,Not Placed,
+27,Aman,M,71,Others,79,Others,Commerce,66,Comm&Mgmt,Yes,Yes,Not Placed,
+28,Anita,F,63,Others,67,Others,Commerce,76,Comm&Mgmt,No,No,Placed,290000
+29,Vikas,M,76.76,Others,76.5,Others,Commerce,67.5,Comm&Mgmt,Yes,Yes,Not Placed,
+30,Ritika,F,62,Others,60,Others,Commerce,64,Comm&Mgmt,No,Yes,Placed,310000
+31,Sarika,F,64,Central,73.5,Central,Commerce,70,Comm&Mgmt,No,No,Placed,250000
+32,Varun,M,96.35,Central,92.35,Central,Science,85,Sci&Tech,No,No,Placed,1800000
+33,Shreya,F,85,Central,81,Central,Commerce,66.4,Comm&Mgmt,No,Yes,Placed,878000
+34,Yash,M,92.52,Others,65,Others,Science,91,Sci&Tech,Yes,Yes,Placed,2400000
+35,Anusha,F,78.52,Others,51,Others,Science,52,Others,No,No,Not Placed,
+36,Nikhil,M,94,Central,78,Central,Commerce,72,Comm&Mgmt,No,No,Placed,300000
+37,Swati,F,51,Central,44,Central,Commerce,57,Comm&Mgmt,No,Yes,Not Placed,
+38,Karan,M,93,Central,76,Central,Science,65.6,Sci&Tech,No,No,Placed,320000
+39,Rahul,M,73,Others,58,Others,Science,66,Comm&Mgmt,No,No,Placed,240000
+40,Shivani,F,82.35,Others,85,Others,Science,84,Sci&Tech,No,Yes,Placed,2500000
+41,Aditya,M,78,Central,77,Others,Commerce,75.35,Comm&Mgmt,No,Yes,Placed,287000
+42,Shivam,M,74,Others,63.16,Others,Commerce,65,Comm&Mgmt,Yes,Yes,Not Placed,
+43,Priyanka,F,49,Others,39,Central,Science,65,Others,No,Yes,Not Placed,
+44,Mukesh,F,87,Others,87,Others,Commerce,68,Comm&Mgmt,No,Yes,Placed,2800000
+45,Rohan,M,77,Others,73,Others,Commerce,81,Comm&Mgmt,Yes,Yes,Placed,3500000
+46,Sonam,F,76,Central,64,Central,Science,72,Sci&Tech,No,No,Not Placed,
+47,Sagar,M,70.89,Others,71.98,Others,Science,65.6,Comm&Mgmt,No,No,Not Placed,
+48,Ankita,F,75.62,Central,60,Central,Commerce,57,Comm&Mgmt,Yes,Yes,Placed,204000
+49,Rajat,M,63,Others,62,Others,Commerce,78,Comm&Mgmt,No,Yes,Placed,450000
+50,Reena,M,50,Others,37,Others,Arts,52,Others,No,No,Not Placed,
+51,Shreya,M,75.2,Central,73.2,Central,Science,68.4,Comm&Mgmt,No,No,Not Placed,
+52,Kiran,F,54.4,Central,61.12,Central,Commerce,56.2,Comm&Mgmt,No,No,Not Placed,
+53,Nisha,F,40.89,Others,85.83,Others,Commerce,53,Comm&Mgmt,No,No,Not Placed,
+54,Sachin,M,91.2,Others,70,Others,Science,72,Sci&Tech,No,Yes,Placed,1450000
+55,Nihar,M,74,Central,60,Others,Science,69,Comm&Mgmt,No,Yes,Placed,1216000
+56,Anjali,F,60.4,Central,86.6,Others,Science,65,Comm&Mgmt,No,Yes,Placed,220000
+57,Saurabh,M,63.52,Others,71.4,Others,Commerce,61.4,Comm&Mgmt,No,No,Not Placed,
+58,Abhishek,F,83.32,Central,83.52,Central,Commerce,75.63,Comm&Mgmt,No,Yes,Placed,760000
+59,Raman,M,74,Central,72,Others,Science,68,Comm&Mgmt,No,Yes,Not Placed,
+60,Neha,F,89.35,Central,75.58,Others,Science,82.11,Sci&Tech,No,Yes,Placed,1300000
+61,Hitesh,M,74,Central,70,Central,Science,72,Comm&Mgmt,Yes,Yes,Placed,260000
+62,Prerna,F,72.5,Central,78,Central,Commerce,70,Comm&Mgmt,Yes,Yes,Placed,320000
+63,Kunal,M,68,Others,72,Others,Science,75,Sci&Tech,Yes,No,Not Placed,
+64,Riya,F,78.52,Others,60,Others,Arts,65,Comm&Mgmt,No,Yes,Not Placed,
+65,Vijay,M,89,Central,84,Central,Commerce,78,Comm&Mgmt,Yes,No,Placed,450000
+66,Shalu,F,72,Others,68,Central,Commerce,75,Comm&Mgmt,Yes,Yes,Placed,380000
+67,Kartik,M,60,Central,64,Central,Science,66,Sci&Tech,No,Yes,Not Placed,
+68,Deepa,F,78,Central,84,Central,Commerce,80,Comm&Mgmt,Yes,No,Placed,300000
+69,Raj,M,65,Others,68,Others,Commerce,70,Comm&Mgmt,Yes,No,Placed,280000
+70,Shweta,F,55,Central,60,Central,Science,65,Sci&Tech,Yes,Yes,Placed,1000000
+71,Ajay,M,80,Central,82,Others,Commerce,78,Comm&Mgmt,Yes,Yes,Placed,500000
+72,Sonia,F,75,Others,76,Others,Commerce,74,Comm&Mgmt,No,Yes,Placed,420000
+73,Kishan,M,58,Central,65,Central,Science,62,Sci&Tech,No,No,Not Placed,
+74,Akshita,F,72,Central,78,Central,Commerce,75,Comm&Mgmt,Yes,No,Placed,450000
+75,Adarsh,M,65,Central,70,Others,Commerce,72,Comm&Mgmt,Yes,Yes,Placed,320000
+76,Geeta,F,82,Others,84,Others,Commerce,80,Comm&Mgmt,Yes,Yes,Placed,600000
+77,Vicky,M,62,Others,64,Central,Science,68,Sci&Tech,No,No,Not Placed,
+78,Sneha,F,68,Central,72,Others,Commerce,70,Comm&Mgmt,No,Yes,Placed,350000
+79,Rohit,M,75,Others,82,Central,Commerce,78,Comm&Mgmt,Yes,Yes,Placed,480000
+80,Poonam,F,55,Central,60,Central,Science,62,Sci&Tech,No,No,Not Placed,
+81,Rajesh,M,82,Others,84,Others,Commerce,78,Comm&Mgmt,Yes,Yes,Placed,550000
+82,Asha,F,75,Others,76,Others,Commerce,74,Comm&Mgmt,No,Yes,Placed,420000
+83,Vivek,M,58,Central,65,Central,Science,62,Sci&Tech,No,No,Not Placed,
+84,Neha,F,62,Others,68,Others,Commerce,70,Comm&Mgmt,Yes,No,Placed,300000
+85,Surya,M,65,Central,70,Others,Commerce,72,Comm&Mgmt,Yes,Yes,Placed,280000
+86,Rakhi,F,82,Others,84,Others,Commerce,80,Comm&Mgmt,Yes,Yes,Placed,500000
+87,Mohan,M,72,Others,78,Central,Commerce,75,Comm&Mgmt,Yes,Yes,Placed,400000
+88,Anu,F,62,Central,68,Central,Science,83.6,Sci&Tech,No,Yes,Placed,600000
+89,Arun,M,70,Others,72,Others,Science,78,Sci&Tech,No,Yes,Placed,350000
+90,Anita,F,65,Central,70,Central,Commerce,72,Comm&Mgmt,Yes,No,Not Placed,
+91,Varun,M,68,Central,75,Others,Science,68,Sci&Tech,Yes,Yes,Placed,330000
+92,Alka,F,62,Central,70,Central,Science,72,Sci&Tech,Yes,Yes,Placed,310000
+93,Sunil,M,75,Others,80,Others,Commerce,78,Comm&Mgmt,Yes,Yes,Placed,420000
+94,Priyanka,F,65,Central,70,Central,Commerce,72,Comm&Mgmt,Yes,No,Placed,380000
+95,Krish,M,70,Others,72,Others,Science,78,Sci&Tech,Yes,Yes,Placed,430000
+96,Shruti,F,82,Others,84,Others,Commerce,80,Comm&Mgmt,Yes,No,Placed,1550000
+97,Saurabh,M,62,Central,70,Central,Commerce,72,Comm&Mgmt,Yes,Yes,Not Placed,
+98,Komal,F,65,Central,70,Others,Commerce,72,Comm&Mgmt,Yes,Yes,Placed,340000
+99,Alok,M,70,Central,72,Others,Science,78,Sci&Tech,Yes,Yes,Not Placed,
+100,Priya,F,75,Others,80,Others,Commerce,78,Comm&Mgmt,Yes,Yes,Placed,420000
+101,Ankit,M,62,Central,70,Central,Commerce,72,Comm&Mgmt,Yes,No,Not Placed,
+102,Megha,F,65,Central,70,Others,Commerce,72,Comm&Mgmt,Yes,No,Placed,340000
+103,Samay,M,70,Central,72,Others,Science,78,Sci&Tech,Yes,No,Not Placed,
+104,Kirti,F,75,Others,80,Others,Commerce,78,Comm&Mgmt,Yes,Yes,Placed,420000
+105,Abhinav,M,83,Central,78.5,Others,Science,79.5,Sci&Tech,Yes,Yes,Placed,550000
+106,Simran,F,77,Others,75,Others,Commerce,73,Comm&Mgmt,No,Yes,Placed,400000
+107,Arjun,M,68,Central,65,Central,Commerce,62,Comm&Mgmt,No,No,Not Placed,
+108,Shweta,F,85.2,Others,82.5,Others,Science,88.5,Sci&Tech,No,Yes,Placed,750000
+109,Rajat,M,72,Central,68,Others,Commerce,70,Comm&Mgmt,Yes,Yes,Placed,320000
+110,Priyanka,F,68,Central,70,Others,Science,72,Sci&Tech,Yes,No,Placed,380000
+111,Karan,M,77,Others,82,Others,Commerce,80,Comm&Mgmt,Yes,Yes,Not Placed,
+112,Neha,F,62,Central,65,Central,Commerce,68,Comm&Mgmt,No,Yes,Placed,300000
+113,Surya,M,65,Central,70,Others,Commerce,72,Comm&Mgmt,Yes,Yes,Placed,280000
+114,Rakhi,F,82,Others,84,Others,Commerce,80,Comm&Mgmt,Yes,Yes,Placed,500000
+115,Mohan,M,72,Others,78,Central,Commerce,75,Comm&Mgmt,Yes,Yes,Placed,400000
+116,Anu,F,62,Central,68,Central,Science,83.6,Sci&Tech,No,Yes,Placed,600000
+117,Arun,M,70,Others,72,Others,Science,78,Sci&Tech,No,Yes,Placed,350000
+118,Anita,F,65,Central,70,Central,Commerce,72,Comm&Mgmt,Yes,No,Not Placed,
+119,Varun,M,68,Central,75,Others,Science,68,Sci&Tech,Yes,Yes,Placed,330000
+120,Alka,F,62,Central,70,Central,Science,72,Sci&Tech,Yes,Yes,Placed,310000
+121,Sunil,M,75,Others,80,Others,Commerce,78,Comm&Mgmt,Yes,Yes,Placed,420000
+122,Priyanka,F,65,Central,70,Central,Commerce,72,Comm&Mgmt,Yes,No,Placed,380000
+123,Krish,M,70,Others,72,Others,Science,78,Sci&Tech,Yes,Yes,Placed,430000
+124,Shruti,F,82,Others,84,Others,Commerce,80,Comm&Mgmt,Yes,No,Placed,1550000
+125,Saurabh,M,62,Central,70,Central,Commerce,72,Comm&Mgmt,Yes,Yes,Not Placed,
+126,Komal,F,65,Central,70,Others,Commerce,72,Comm&Mgmt,Yes,Yes,Placed,340000
+127,Alok,M,70,Central,72,Others,Science,78,Sci&Tech,Yes,Yes,Not Placed,
+128,Priya,F,75,Others,80,Others,Commerce,78,Comm&Mgmt,Yes,Yes,Placed,420000
+129,Ankit,M,62,Central,70,Central,Commerce,72,Comm&Mgmt,Yes,No,Not Placed,
+130,Megha,F,65,Central,70,Others,Commerce,72,Comm&Mgmt,Yes,No,Placed,340000
+131,Samay,M,70,Central,72,Others,Science,78,Sci&Tech,Yes,No,Not Placed,
+132,Kirti,F,75,Others,80,Others,Commerce,78,Comm&Mgmt,Yes,Yes,Placed,420000
+133,Aditya,M,78,Central,77,Others,Commerce,75.35,Comm&Mgmt,No,Yes,Placed,287000
+134,Shivam,M,74,Others,63.16,Others,Commerce,65,Comm&Mgmt,Yes,Yes,Not Placed,
+135,Priyanka,F,49,Others,39,Central,Science,65,Others,No,Yes,Not Placed,
+136,Mukesh,F,87,Others,87,Others,Commerce,68,Comm&Mgmt,No,Yes,Placed,2800000
+137,Rohan,M,77,Others,73,Others,Commerce,81,Comm&Mgmt,Yes,Yes,Placed,3500000
+138,Sonam,F,76,Central,64,Central,Science,72,Sci&Tech,No,No,Not Placed,
+139,Sagar,M,70.89,Others,71.98,Others,Science,65.6,Comm&Mgmt,No,No,Not Placed,
+140,Ankita,F,75.62,Central,60,Central,Commerce,57,Comm&Mgmt,Yes,Yes,Placed,204000
+141,Rajat,M,63,Others,62,Others,Commerce,78,Comm&Mgmt,No,Yes,Placed,450000
+142,Reena,M,50,Others,37,Others,Arts,52,Others,No,No,Not Placed,
+143,Shreya,M,75.2,Central,73.2,Central,Science,68.4,Comm&Mgmt,No,No,Not Placed,
+144,Kiran,F,54.4,Central,61.12,Central,Commerce,56.2,Comm&Mgmt,No,No,Not Placed,
+145,Nisha,F,40.89,Others,85.83,Others,Commerce,53,Comm&Mgmt,No,No,Not Placed,
+146,Sachin,M,91.2,Others,70,Others,Science,72,Sci&Tech,No,Yes,Placed,1450000
+147,Nihar,M,74,Central,60,Others,Science,69,Comm&Mgmt,No,Yes,Placed,1216000
+148,Anjali,F,60.4,Central,86.6,Others,Science,65,Comm&Mgmt,No,Yes,Placed,220000
+149,Saurabh,M,63.52,Others,71.4,Others,Commerce,61.4,Comm&Mgmt,No,No,Not Placed,
+150,Abhishek,F,83.32,Central,83.52,Central,Commerce,75.63,Comm&Mgmt,No,Yes,Placed,760000
+151,Raman,M,74,Central,72,Others,Science,68,Comm&Mgmt,No,Yes,Not Placed,
+152,Neha,F,89.35,Central,75.58,Others,Science,82.11,Sci&Tech,No,Yes,Placed,1300000
+153,Hitesh,M,74,Central,70,Central,Science,72,Comm&Mgmt,Yes,Yes,Placed,260000
+154,Prerna,F,72.5,Central,78,Central,Commerce,70,Comm&Mgmt,Yes,Yes,Placed,320000
+155,Kunal,M,68,Others,72,Others,Science,75,Sci&Tech,Yes,No,Not Placed,
+156,Riya,F,78.52,Others,60,Others,Arts,65,Comm&Mgmt,No,Yes,Not Placed,
+157,Vijay,M,89,Central,84,Central,Commerce,78,Comm&Mgmt,Yes,No,Placed,450000
+158,Shalu,F,72,Others,68,Central,Commerce,75,Comm&Mgmt,Yes,Yes,Placed,380000
+159,Kartik,M,60,Central,64,Central,Science,66,Sci&Tech,No,Yes,Not Placed,
+160,Deepa,F,78,Central,84,Central,Commerce,80,Comm&Mgmt,Yes,No,Placed,300000
+161,Raj,M,65,Others,68,Others,Commerce,70,Comm&Mgmt,Yes,No,Placed,280000
+162,Shweta,F,55,Central,60,Central,Science,65,Sci&Tech,Yes,Yes,Placed,1000000
+163,Ajay,M,80,Central,82,Others,Commerce,78,Comm&Mgmt,Yes,Yes,Placed,500000
+164,Sonia,F,75,Others,76,Others,Commerce,74,Comm&Mgmt,No,Yes,Placed,420000
+165,Kishan,M,58,Central,65,Central,Science,62,Sci&Tech,No,No,Not Placed,
+166,Akshita,F,72,Central,78,Central,Commerce,75,Comm&Mgmt,Yes,No,Placed,450000
+167,Adarsh,M,65,Central,70,Others,Commerce,72,Comm&Mgmt,Yes,Yes,Placed,320000
+168,Geeta,F,82,Others,84,Others,Commerce,80,Comm&Mgmt,Yes,Yes,Placed,600000
+169,Vicky,M,62,Others,64,Central,Science,68,Sci&Tech,No,No,Not Placed,
+170,Sneha,F,68,Central,72,Others,Commerce,70,Comm&Mgmt,No,Yes,Placed,350000
+171,Rohit,M,75,Others,82,Central,Commerce,78,Comm&Mgmt,Yes,Yes,Placed,480000
+172,Poonam,F,55,Central,60,Central,Science,62,Sci&Tech,No,No,Not Placed,
