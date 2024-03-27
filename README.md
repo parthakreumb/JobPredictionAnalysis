@@ -1,4 +1,4 @@
-# Project: Job Prediction Analysis
+# Project: CareerFit.AI
 
 **Code Documentation:** 
 
